@@ -25,3 +25,9 @@ This project is a prototype made with <b>CSFML</b> during our first year at the 
 * Nathan Olivencia https://www.linkedin.com/in/nathan-olivencia-a808a4196/
 * Nathan Ginisty https://www.linkedin.com/in/nathan-ginisty-3888a1196/
 * Clément Amphoux https://www.linkedin.com/in/clement-amphoux-6626a1182/
+
+
+
+![Image description](https://i.imgur.com/UPh31dO.jpg)
+
+![Image description](https://i.imgur.com/GFX0IyX.png)
