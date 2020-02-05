@@ -9,7 +9,7 @@ and fight againts the ruthless pirate crew of the Captain Creuchon.
 <b><i>Fight, find new gears and grow stronger to beat the increasing difficulty of this world !</b></i>
 </br><i>Watch out for the Piranhas.</i>
 </br></br>
-This project is a prototype made with <b>CSFML</b> during my first year at the school <b>Créajeux</b> (https://www.creajeux.fr/).
+This project is a prototype made with <b>CSFML</b> during our first year at the school <b>Créajeux</b> (https://www.creajeux.fr/).
 </br>It was entierly made using C language with a team of 8 developers.
 </br></br>
 <b>Build:</b> https://drive.google.com/file/d/1ynyDrBqMkSsLu8GzaKyf1UmBXa3Um_ZD/view
