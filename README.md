@@ -12,6 +12,9 @@ and fight againts the ruthless pirate crew of the Captain Creuchon.
 This project is a prototype made with <b>CSFML</b> during my first year at the school <b>Créajeux</b> (https://www.creajeux.fr/).
 </br>It was entierly made using C language with a team of 8 developers.
 </br></br>
+
+Build: https://drive.google.com/file/d/1ynyDrBqMkSsLu8GzaKyf1UmBXa3Um_ZD/view
+
 <b>This game was created by the following artists and programmers:</b>
 * Thibaut Dailloux https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
 * Ophélie Eygrier https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
