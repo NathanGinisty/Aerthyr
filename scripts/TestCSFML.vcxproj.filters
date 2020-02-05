@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\MapLoader">
+      <UniqueIdentifier>{34d7bba5-e76e-4d2e-89bb-c8c12d60e302}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Physic">
+      <UniqueIdentifier>{afdc7e15-8297-4ff8-9d78-120733bd87c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data">
+      <UniqueIdentifier>{478420d1-f0f0-423a-876a-a4fd53cb99ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\SpriteBank">
+      <UniqueIdentifier>{b9c57d53-9e30-4dc0-8fe8-95703d055b20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Utilities">
+      <UniqueIdentifier>{2f122c6a-27cb-4e3e-a854-67d42b7b23a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Camera">
+      <UniqueIdentifier>{cd25a62c-bd3b-4ca6-9ddf-6b6ac9de8ff7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Player">
+      <UniqueIdentifier>{d92185bf-76db-4bbc-842f-480c0ef465ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\MathsElements">
+      <UniqueIdentifier>{3f084da7-9af8-4348-a495-3180c75ef838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Parallax">
+      <UniqueIdentifier>{f85f7cf6-aeac-4c4e-bbc1-d9f8f8dd8fbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\EnemyController">
+      <UniqueIdentifier>{a80b0bb0-4d6e-4b2b-9d0e-10f4427c2399}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Loader manager">
+      <UniqueIdentifier>{5c9ef066-5c6a-40da-b91f-c0d01b8ee300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\LayerManager">
+      <UniqueIdentifier>{35d2c0dd-8368-4645-bd93-e3c9a8bae86a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\TextManager">
+      <UniqueIdentifier>{5b57b49b-5e61-4846-a124-09a3ae881896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Launcher Manager">
+      <UniqueIdentifier>{4caf0313-cc9c-46ea-898c-762fc50140a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\AnimManager">
+      <UniqueIdentifier>{880d2e8e-ad88-4541-9239-0229c7d9d2ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\FightBox">
+      <UniqueIdentifier>{69716d7b-7dce-4c3a-844a-15aed5ded478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\HUD">
+      <UniqueIdentifier>{01878419-4345-421b-80ab-8ecdb9e87ba4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Backpack">
+      <UniqueIdentifier>{5b216a23-625b-4002-a18e-e536e0672fee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\BackpackRotating">
+      <UniqueIdentifier>{4bef4f3b-4438-4c5f-b586-91540663df2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps">
+      <UniqueIdentifier>{501f9e53-b163-43f1-b9f4-3d07644382b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps\Area1">
+      <UniqueIdentifier>{61593399-a5b9-47d9-9fec-4ee468e86daa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps\Area1\MapFiles">
+      <UniqueIdentifier>{36a1f7ef-d335-481d-a7ed-806174312516}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps\Area2">
+      <UniqueIdentifier>{0a1e7daf-256e-4787-8d6e-9614c59ce51a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps\Area2\MapsFiles">
+      <UniqueIdentifier>{d5d2aa2e-e64d-49e3-bf0d-08fbc6054830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps\Area3">
+      <UniqueIdentifier>{ea9d748d-591d-4d7d-af82-c916a329b61b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Maps\Area3\MapsFiles">
+      <UniqueIdentifier>{e78ff436-a464-46d4-ad11-dc4f7baa011f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\FadeManager">
+      <UniqueIdentifier>{a875636f-149c-49ae-9e72-77c43512c67e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GameStateManager">
+      <UniqueIdentifier>{92e1f282-9522-4514-beea-d70194b9feda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\MenuManager">
+      <UniqueIdentifier>{da6205ce-e826-4ced-8c25-886798077a01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ParticleManager">
+      <UniqueIdentifier>{858cdbae-afa9-4792-a650-e58c3e0a66d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\SoundManager">
+      <UniqueIdentifier>{90c35ece-216b-4f33-a0aa-c38338718d41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Command">
+      <UniqueIdentifier>{a1b42ff3-caff-452a-8ad5-a5d0d512b797}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ItemManager">
+      <UniqueIdentifier>{c6c51f9c-102f-452f-bae4-dae4db826d19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\InstanceManager">
+      <UniqueIdentifier>{338be3bb-bc97-460a-a26d-0c36c355a5e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\SpellManager">
+      <UniqueIdentifier>{b22438bc-ec1c-4c7e-969b-9db440141ee3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\StatManager">
+      <UniqueIdentifier>{0f770edb-d142-4ba0-88df-9d2c0978a043}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\ProjectileController">
+      <UniqueIdentifier>{e8747bd0-6e6d-4676-830f-33934c0fcd1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Player">
+      <UniqueIdentifier>{688b8611-af3d-4b3f-b793-fb7ead9d24b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies">
+      <UniqueIdentifier>{0dbab88b-e372-428a-92e8-551c82c10189}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Debug">
+      <UniqueIdentifier>{5b82adcd-998b-4407-a9e3-75a540ef2562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Realese">
+      <UniqueIdentifier>{b4468d74-3f2d-416d-a059-997e7b002857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Debug\Ranger">
+      <UniqueIdentifier>{c145532b-fc14-4819-8857-40772303234b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Debug\Runner">
+      <UniqueIdentifier>{66c01659-d3d0-412c-9328-dc7300b87bd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Debug\Heavy">
+      <UniqueIdentifier>{e987dc06-2e7c-46b7-802a-beb6fc2dfff8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Realese\Ranger">
+      <UniqueIdentifier>{3ebb32ef-5e95-4ab1-995d-acb3ddd1dff0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Realese\Runner">
+      <UniqueIdentifier>{fded6e9b-5d27-436f-a2f2-cdaa965cc804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files Data\Enemies\Realese\Heavy">
+      <UniqueIdentifier>{7c8a022b-16fa-4b38-a1c3-ae369734984a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\GameData">
+      <UniqueIdentifier>{2241a66c-f2f4-46af-9277-6f431c931be5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="MapLoader\MapLoader.h">
+      <Filter>Fichiers sources\MapLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Physic\Physics.h">
+      <Filter>Fichiers sources\Physic</Filter>
+    </ClInclude>
+    <ClInclude Include="GameData\GameData.h">
+      <Filter>Fichiers sources\GameData</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteBank\SpriteBank.h">
+      <Filter>Fichiers sources\SpriteBank</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Utilities.h">
+      <Filter>Fichiers sources\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\camera.h">
+      <Filter>Fichiers sources\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Player\Player.h">
+      <Filter>Fichiers sources\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="MathsElements\MathElements.h">
+      <Filter>Fichiers sources\MathsElements</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyController\EnemyController.h">
+      <Filter>Fichiers sources\EnemyController</Filter>
+    </ClInclude>
+    <ClInclude Include="LoaderManager\loaderManager.h">
+      <Filter>Fichiers sources\Loader manager</Filter>
+    </ClInclude>
+    <ClInclude Include="LayerManager\layerManager.h">
+      <Filter>Fichiers sources\LayerManager</Filter>
+    </ClInclude>
+    <ClInclude Include="TextManager\textManager.h">
+      <Filter>Fichiers sources\TextManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\launcher.h">
+      <Filter>Fichiers sources\Launcher Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimManager\animManager.h">
+      <Filter>Fichiers sources\AnimManager</Filter>
+    </ClInclude>
+    <ClInclude Include="FightBox\fightBox.h">
+      <Filter>Fichiers sources\FightBox</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD\HUD.h">
+      <Filter>Fichiers sources\HUD</Filter>
+    </ClInclude>
+    <ClInclude Include="Backpack\BackPack.h">
+      <Filter>Fichiers sources\Backpack</Filter>
+    </ClInclude>
+    <ClInclude Include="BackpackRotating\BackpackRotating.h">
+      <Filter>Fichiers sources\BackpackRotating</Filter>
+    </ClInclude>
+    <ClInclude Include="FadeManager\FadeManager.h">
+      <Filter>Fichiers sources\FadeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateManager\GameStateManager.h">
+      <Filter>Fichiers sources\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuManager\MenuManager.h">
+      <Filter>Fichiers sources\MenuManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Parallax\parallax.h">
+      <Filter>Fichiers sources\Parallax</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleManager\ParticleManager.h">
+      <Filter>Fichiers sources\ParticleManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager\soundManager.h">
+      <Filter>Fichiers sources\SoundManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\command.h">
+      <Filter>Fichiers sources\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager\ItemManager.h">
+      <Filter>Fichiers sources\ItemManager</Filter>
+    </ClInclude>
+    <ClInclude Include="InstanceManager\InstanceManager.h">
+      <Filter>Fichiers sources\InstanceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="StatCharacter\StatCharacter.h">
+      <Filter>Fichiers sources\StatManager</Filter>
+    </ClInclude>
+    <ClInclude Include="SpellManager\SpellManager.h">
+      <Filter>Fichiers sources\SpellManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ProjectileController\ProjectileController.h">
+      <Filter>Fichiers sources\ProjectileController</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MapLoader\MapLoader.c">
+      <Filter>Fichiers sources\MapLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="Physic\Physics.c">
+      <Filter>Fichiers sources\Physic</Filter>
+    </ClCompile>
+    <ClCompile Include="GameData\GameData.c">
+      <Filter>Fichiers sources\GameData</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteBank\SpriteBank.c">
+      <Filter>Fichiers sources\SpriteBank</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\Utilities.c">
+      <Filter>Fichiers sources\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\camera.c">
+      <Filter>Fichiers sources\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Player\Player.c">
+      <Filter>Fichiers sources\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="MathsElements\MathElement.c">
+      <Filter>Fichiers sources\MathsElements</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyController\EnemyController.c">
+      <Filter>Fichiers sources\EnemyController</Filter>
+    </ClCompile>
+    <ClCompile Include="LoaderManager\loaderManager.c">
+      <Filter>Fichiers sources\Loader manager</Filter>
+    </ClCompile>
+    <ClCompile Include="LayerManager\layerManager.c">
+      <Filter>Fichiers sources\LayerManager</Filter>
+    </ClCompile>
+    <ClCompile Include="TextManager\textManager.c">
+      <Filter>Fichiers sources\TextManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher\launcher.c">
+      <Filter>Fichiers sources\Launcher Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimManager\animManager.c">
+      <Filter>Fichiers sources\AnimManager</Filter>
+    </ClCompile>
+    <ClCompile Include="FightBox\fightBox.c">
+      <Filter>Fichiers sources\FightBox</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD\HUD.c">
+      <Filter>Fichiers sources\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="Backpack\BackPack.c">
+      <Filter>Fichiers sources\Backpack</Filter>
+    </ClCompile>
+    <ClCompile Include="BackpackRotating\BackpackRotating.c">
+      <Filter>Fichiers sources\BackpackRotating</Filter>
+    </ClCompile>
+    <ClCompile Include="FadeManager\FadeManager.c">
+      <Filter>Fichiers sources\FadeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateManager\GameStateManager.c">
+      <Filter>Fichiers sources\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuManager\MenuManager.c">
+      <Filter>Fichiers sources\MenuManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallax\Parallax.c">
+      <Filter>Fichiers sources\Parallax</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleManager\ParticleManager.c">
+      <Filter>Fichiers sources\ParticleManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager\soundManager.c">
+      <Filter>Fichiers sources\SoundManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Command\command.c">
+      <Filter>Fichiers sources\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager\ItemManager.c">
+      <Filter>Fichiers sources\ItemManager</Filter>
+    </ClCompile>
+    <ClCompile Include="InstanceManager\InstanceManager.c">
+      <Filter>Fichiers sources\InstanceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="StatCharacter\StatCharacter.c">
+      <Filter>Fichiers sources\StatManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SpellManager\SpellManager.c">
+      <Filter>Fichiers sources\SpellManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ProjectileController\ProjectileController.c">
+      <Filter>Fichiers sources\ProjectileController</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\x64\Debug\Maps\Area1\MapFiles\map2.map">
+      <Filter>Files Data\Maps\Area1\MapFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area1\MapFiles\MapTest.map">
+      <Filter>Files Data\Maps\Area1\MapFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area1\MapFiles\testColli.map">
+      <Filter>Files Data\Maps\Area1\MapFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area1\MapsInfos.dat">
+      <Filter>Files Data\Maps\Area1</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area2\MapsInfos.dat">
+      <Filter>Files Data\Maps\Area2</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area2\MapFiles\map2.map">
+      <Filter>Files Data\Maps\Area2\MapsFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area2\MapFiles\MapTest.map">
+      <Filter>Files Data\Maps\Area2\MapsFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area2\MapFiles\testColli.map">
+      <Filter>Files Data\Maps\Area2\MapsFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area3\MapsInfos.dat">
+      <Filter>Files Data\Maps\Area3</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area3\MapFiles\map2.map">
+      <Filter>Files Data\Maps\Area3\MapsFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area3\MapFiles\MapTest.map">
+      <Filter>Files Data\Maps\Area3\MapsFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area3\MapFiles\testColli.map">
+      <Filter>Files Data\Maps\Area3\MapsFiles</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area1\MapCollisionFile.svg">
+      <Filter>Files Data\Maps\Area1</Filter>
+    </None>
+    <None Include="..\x64\Debug\Maps\Area1\MapFiles\Map_Forest.map">
+      <Filter>Files Data\Maps\Area1\MapFiles</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\x64\Debug\Data\Player\animPlayer.txt">
+      <Filter>Files Data\Player</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Data\Enemies\Heavy\animFile_1-3.txt">
+      <Filter>Files Data\Enemies\Debug\Heavy</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Data\Enemies\Runner\animFile_1-1.txt">
+      <Filter>Files Data\Enemies\Debug\Runner</Filter>
+    </Text>
+    <Text Include="..\x64\Debug\Data\Enemies\Ranger\animFile_1-2.txt">
+      <Filter>Files Data\Enemies\Debug\Ranger</Filter>
+    </Text>
+    <Text Include="..\x64\Release\Data\Enemies\Heavy\animFile_1-3.txt">
+      <Filter>Files Data\Enemies\Realese\Heavy</Filter>
+    </Text>
+    <Text Include="..\x64\Release\Data\Enemies\Runner\animFile_1-1.txt">
+      <Filter>Files Data\Enemies\Realese\Runner</Filter>
+    </Text>
+    <Text Include="..\x64\Release\Data\Enemies\Ranger\animFile_1-2.txt">
+      <Filter>Files Data\Enemies\Realese\Ranger</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

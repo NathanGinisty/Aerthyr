@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  TestCSFML.cpp
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(6): error C2143: erreur de syntaxe : absence de ';' avant '*'
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(6): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(9): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(9): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'event'
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(18): error C2065: 'sfVideoMode' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(18): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'mode'
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(18): error C2065: 'mode' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(21): error C2065: 'mode' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(21): error C2065: 'sfResize' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(21): error C2065: 'sfClose' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(21): error C3861: 'sfRenderWindow_create' : identificateur introuvable
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(25): error C3861: 'sfRenderWindow_isOpen' : identificateur introuvable
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(28): error C2065: 'event' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(28): error C3861: 'sfRenderWindow_pollEvent' : identificateur introuvable
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(35): error C2065: 'sfBlack' : identificateur non déclaré
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(35): error C3861: 'sfRenderWindow_clear' : identificateur introuvable
+d:\orga\2017-2018\prog 1\sfml\csfml 2.4.2 demos megapack\testcsfml\testcsfml\testcsfml.cpp(38): error C3861: 'sfRenderWindow_display' : identificateur introuvable

@@ -1,0 +1,237 @@
+﻿  SpellManager.c
+  ProjectileController.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\projectilecontroller\projectilecontroller.c(215): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  Player.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\player\player.c(588): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\player\player.c(595): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  Physics.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\physic\physics.c(53): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\physic\physics.c(293): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\physic\physics.c(294): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\physic\physics.c(349): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\physic\physics.c(402): warning C4101: 'dot' : variable locale non référencée
+  ParticleManager.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(69): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(155): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(156): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(161): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(169): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(170): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(177): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(178): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(191): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(202): warning C4047: 'fonction' : les niveaux d'indirection de 'Particle **' et de 'Particle *' sont différents
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(202): warning C4024: 'DeleteParticle' : types différents pour le paramètre formel et réel 2
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\particlemanager\particlemanager.c(227): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  Parallax.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(12): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(78): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(113): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(118): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(123): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(123): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(277): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(291): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(295): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(296): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(261): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(266): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(267): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(333): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(335): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\parallax\parallax.c(346): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  Main.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(213): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'sfWindow *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(470): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(471): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(735): warning C4047: 'fonction' : les niveaux d'indirection de 'Layers *' et de 'Layers (*)[100]' sont différents
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(735): warning C4024: 'RenderParticles' : types différents pour le paramètre formel et réel 1
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(468): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(496): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(529): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(563): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(804): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\main.c(132): warning C4101: 'vertexPoint' : variable locale non référencée
+  loaderManager.c
+  layerManager.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\layermanager\layermanager.c(9): warning C4133: '=' : types incompatibles - de 'Chaine *' à 'Chaine *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\layermanager\layermanager.c(21): warning C4133: '=' : types incompatibles - de 'Chaine *' à 'Chaine *'
+  ItemManager.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(15): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(17): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(19): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(21): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(23): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(37): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(41): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(43): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(45): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(47): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(135): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(139): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\itemmanager\itemmanager.c(143): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  InstanceManager.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(16): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(127): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(135): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(141): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(147): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(154): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(162): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(168): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(181): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\instancemanager\instancemanager.c(189): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  HUD.c
+  GameData.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\gamedata\gamedata.c(44): warning C4020: 'iniMusique' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\gamedata\gamedata.c(45): warning C4020: 'iniMusique' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\gamedata\gamedata.c(47): warning C4020: 'initSound' : paramètres réels trop nombreux
+  fightBox.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\fightbox\fightbox.c(32): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\fightbox\fightbox.c(658): warning C4305: 'fonction' : troncation de 'double' à 'float'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\fightbox\fightbox.c(658): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  EnemyController.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(52): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(50): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(174): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(175): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(177): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(178): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(195): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(196): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(198): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(199): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(220): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(221): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(223): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(224): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(241): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(242): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(244): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(245): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(274): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(275): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(279): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(280): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(285): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(286): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(290): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(291): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(303): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(304): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(340): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(341): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(347): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(348): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(465): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(662): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(724): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(726): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(757): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(822): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(824): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(845): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(891): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(916): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(919): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(921): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1013): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1016): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1056): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1092): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1132): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1148): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1172): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1175): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1177): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1227): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1295): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1297): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1348): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1407): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1409): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1455): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1485): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1529): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1496): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1645): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1721): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1724): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1726): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1824): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1862): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1914): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1917): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1953): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(1969): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2008): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2028): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2185): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2247): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2249): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2280): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2332): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2334): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2374): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2420): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2451): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2454): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2456): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2528): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2540): warning C4020: 'PlayerIsVisible' : paramètres réels trop nombreux
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2562): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2626): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2629): warning C4133: 'fonction' : types incompatibles - de 'EnemyAttack *' à 'EnemyAttackData *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2629): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2670): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2687): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2727): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2743): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2784): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2830): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2854): warning C4028: paramètre formel 2 différent de la déclaration
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2776): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2834): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2887): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2936): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2975): warning C4028: paramètre formel 2 différent de la déclaration
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2976): warning C4028: paramètre formel 2 différent de la déclaration
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2879): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2945): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(2946): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3008): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3056): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3069): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3070): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3073): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3095): warning C4028: paramètre formel 2 différent de la déclaration
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3000): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3125): warning C4133: 'fonction' : types incompatibles - de 'rigidBody *' à 'Entity2D *'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3276): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3294): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3279): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3314): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(3319): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  camera.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\camera\camera.c(124): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\camera\camera.c(132): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\camera\camera.c(108): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\camera\camera.c(186): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  BackPack.c
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(149): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(150): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(145): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(212): warning C4102: 'loot_defense' : étiquette non référencée
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(228): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(229): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(224): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(271): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(272): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(267): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  BackpackRotating.c
+  Génération de code en cours...
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\backpack\backpack.c(317): warning C4715: 'GestionFastEquip' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\david garcia\desktop\prealpha_ai-30_04_18\testcsfml\enemycontroller\enemycontroller.c(595): warning C4700: variable locale 'atk' non initialisée utilisée
+  TestCSFML.vcxproj -> C:\Users\David Garcia\Desktop\PreAlpha_AI-30_04_18\x64\Debug\ProjetFinAnnee.exe
+  TestCSFML.vcxproj -> C:\Users\David Garcia\Desktop\PreAlpha_AI-30_04_18\x64\Debug\ProjetFinAnnee.pdb (Partial PDB)

@@ -1,0 +1,20 @@
+﻿  InstanceManager.c
+InstanceManager\InstanceManager.c(16): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+InstanceManager\InstanceManager.c(91): warning C4028: paramètre formel 4 différent de la déclaration
+InstanceManager\InstanceManager.c(91): warning C4028: paramètre formel 5 différent de la déclaration
+InstanceManager\InstanceManager.c(91): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+InstanceManager\InstanceManager.c(127): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(135): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(141): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(147): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(154): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(162): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(168): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(181): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+InstanceManager\InstanceManager.c(189): warning C4133: 'fonction' : types incompatibles - de 'Chaine **' à 'Chaine **'
+  Génération de code en cours
+  128 of 250 functions (51.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TestCSFML.vcxproj -> C:\Users\David Garcia\Desktop\PreAlpha_AI-30_04_18\x64\Release\ProjetFinAnnee.exe
