@@ -9,9 +9,11 @@ and fight againts the ruthless pirate crew of the Captain Creuchon.
 <b><i>Fight, find new gears and grow stronger to beat the increasing difficulty of this world !</b></i>
 </br><i>Watch out for the Piranhas.</i>
 </br></br>
-This project is a prototype made with <b>CSFML</b> during my first year at the school <b>Créajeux</b> (https://www.creajeux.fr/).
+This project is a prototype made with <b>CSFML</b> during our first year at the school <b>Créajeux</b> (https://www.creajeux.fr/).
 </br>It was entierly made using C language with a team of 8 developers.
 </br></br>
+<b>Build:</b> https://drive.google.com/file/d/1ynyDrBqMkSsLu8GzaKyf1UmBXa3Um_ZD/view
+
 <b>This game was created by the following artists and programmers:</b>
 * Thibaut Dailloux https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
 * Ophélie Eygrier https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
@@ -23,3 +25,9 @@ This project is a prototype made with <b>CSFML</b> during my first year at the s
 * Nathan Olivencia https://www.linkedin.com/in/nathan-olivencia-a808a4196/
 * Nathan Ginisty https://www.linkedin.com/in/nathan-ginisty-3888a1196/
 * Clément Amphoux https://www.linkedin.com/in/clement-amphoux-6626a1182/
+
+
+
+![Image description](https://i.imgur.com/UPh31dO.jpg)
+
+![Image description](https://i.imgur.com/GFX0IyX.png)
