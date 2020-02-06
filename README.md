@@ -13,6 +13,7 @@ This project is a prototype made with <b>CSFML</b> during our first year at the 
 </br>It was entierly made using C language with a team of 8 developers.
 </br></br>
 <b>Build:</b> https://drive.google.com/file/d/1ynyDrBqMkSsLu8GzaKyf1UmBXa3Um_ZD/view
+<b>Trailer:</b> https://www.youtube.com/watch?v=XM7IDto099Y
 
 <b>This game was created by the following artists and programmers:</b>
 * Thibaut Dailloux https://www.linkedin.com/in/oph%C3%A9lie-eygrier-79150a196/
